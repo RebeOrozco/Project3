@@ -3,9 +3,6 @@
   padding: 0;
 }
 
-:root {
-    --image-path-background: url('assets/color.jpg';
-}
 
 html {
   color: #222;
@@ -19,6 +16,7 @@ h1{
 
 body{
   background-image: "assets/color.jpg";
+  --image-path-background: url('assets/color.jpg';
 }
 
 
