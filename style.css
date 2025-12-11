@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+:root {
+    --image-path-background: url('assets/color.jpg';
+}
+
 html {
   color: #222;
   line-height: 1.4;
