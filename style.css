@@ -6,7 +6,7 @@
 html {
   color: #222;
   line-height: 1.4;
-  font-size: 16pt;
+  font-size: 16;
 }
 
 h1{
@@ -14,7 +14,7 @@ h1{
 }
 
 body{
-  background-image: assets/color.jpg;
+  background-image: "assets/color.jpg";
 }
 
 
